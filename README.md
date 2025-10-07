@@ -1,7 +1,5 @@
 # Zomato-Review-Analysis---Using-NLP
 
-# Zomato Review Analysis - Using NLP
-
 ## Dataset Information
 The dataset contains customer reviews of restaurants listed on **Zomato**, along with corresponding ratings and metadata.  
 The goal of this project is to perform **sentiment analysis** on these reviews to classify them as **positive**, **negative**, or **neutral**, and to gain insights into customer satisfaction trends.
